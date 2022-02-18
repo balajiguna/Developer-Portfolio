@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 5, text: 'Open Source Projects'},
-  { number: 1, text: 'Students', },
+  { number: 3, text: 'Completed Projects', },
   { number: 0, text: 'Github Followers', },
   { number: 0, text: 'Github Stars', }
 ];

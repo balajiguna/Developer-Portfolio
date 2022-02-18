@@ -12,7 +12,7 @@ const Technologies = () =>  (
   I've worked with diffrent projects such as Android , IOS , And Machine Learning.
   <br/>
       <br />
- Known Languages : Python , Kotlin , Java , Reactjs , Swift. 
+ Known Languages : Python , Kotlin , Java , Reactjs , Swift , Next Js. 
       <br />
       <br />
  Known Tools And IDE's : Android Studio, Xcode , VSCode, Pycharm , Netbeans.     
