@@ -10,3 +10,4 @@ To install Dependances : npm i (after installing Node Js)
 
 To Run : npm run dev (or)  npm i && npm start
 
+![](demo_pic.png)
